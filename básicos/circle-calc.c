@@ -18,4 +18,6 @@ int main()
     printf("Área del círculo: %.4lfcm\n", area);
     printf("Area de superficie de la esfera: %.4fcm\n", surfaceArea);
     printf("Volumen de la esfera; %.4fcm\n", volume);
+
+    return 0;
 }
